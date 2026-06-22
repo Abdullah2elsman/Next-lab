@@ -1,0 +1,2 @@
+/home/abdullah/Downloads/public/.next
+/home/abdullah/Downloads/public/.gitignore
